@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/snakedemo.gif" alt="Snake Demo" width="600">
+  <img src="assets/snakedemo.gif" alt="Snake Demo" width="200" height="auto">
 </p>
 
 # Snake SNN Agent
