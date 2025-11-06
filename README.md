@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/snakeemo.gif" alt="Snake Demo" width="600">
+</p>
+
 # Snake SNN Agent
 
 This project implements a Snake game agent powered by a Spiking Neural Network (BrainSNN). The agent uses latency-based coding for decision making and can evolve through training.
