@@ -1,0 +1,9 @@
+numpy
+networkx
+matplotlib
+communities
+tqdm
+pandas
+seaborn
+torch
+streamlit
